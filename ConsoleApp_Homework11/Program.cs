@@ -13,7 +13,7 @@ namespace Homework10
             myCollection.Add(4);
             foreach(var i in myCollection)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i); 
             }
             Console.ReadLine();
         }
